@@ -1,0 +1,101 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="9" />
+      <type value="JavaSDK" />
+      <version value="9" />
+      <homePath value="/usr/lib/jvm/java-9-openjdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.activation" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.base" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.corba" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.datatransfer" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.instrument" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.logging" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.management.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.naming" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.prefs" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.scripting" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.se" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.se.ee" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.security.sasl" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.smartcardio" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.sql" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.sql.rowset" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.transaction" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.xml" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.xml.bind" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.xml.crypto" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.xml.ws" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/java.xml.ws.annotation" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.accessibility" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.aot" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.attach" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.charsets" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.dynalink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.editpad" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.httpserver" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.incubator.httpclient" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.internal.le" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jartool" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.javadoc" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jcmd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jconsole" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jdeps" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jdi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jlink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jshell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jsobject" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.jstatd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.localedata" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.management.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.net" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.pack" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.policytool" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.rmic" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.sctp" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.security.auth" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.unsupported" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.xml.bind" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.xml.ws" type="simple" />
+            <root url="jrt:///usr/lib/jvm/java-9-openjdk!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
