@@ -847,6 +847,11 @@
         <option name="FOREGROUND" value="9f3fff" />
       </value>
     </option>
+    <option name="JS.INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="3adeae" />
+      </value>
+    </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="767de1" />
