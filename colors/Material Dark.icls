@@ -3,11 +3,11 @@
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Bitstream Vera Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
@@ -845,6 +845,11 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="9f3fff" />
+      </value>
+    </option>
+    <option name="JS.INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="3adeae" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
