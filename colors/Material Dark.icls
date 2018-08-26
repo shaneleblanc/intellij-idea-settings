@@ -1150,6 +1150,7 @@
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="REGEXP$BRACES">
       <value>
         <option name="FOREGROUND" value="2c9ea7" />
