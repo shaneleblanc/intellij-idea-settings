@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Hack" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
@@ -1149,6 +1149,7 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="REGEXP$BRACES">
       <value>
         <option name="FOREGROUND" value="2c9ea7" />
