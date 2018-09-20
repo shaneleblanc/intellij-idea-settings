@@ -930,6 +930,13 @@
         <option name="FOREGROUND" value="ff6b68" />
       </value>
     </option>
+    <option name="LUA_FIELD" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="LUA_GLOBAL_VAR">
+      <value>
+        <option name="FOREGROUND" value="9fde" />
+      </value>
+    </option>
+    <option name="LUA_LOCAL_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
