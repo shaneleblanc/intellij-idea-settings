@@ -527,6 +527,12 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -1156,7 +1162,17 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="51a4bf" />
+      </value>
+    </option>
     <option name="PY.CLASS_DEFINITION" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="62a3de" />
+      </value>
+    </option>
     <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="REGEXP$BRACES">
       <value>
