@@ -27,6 +27,33 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Pipenv (play_versions) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/play_versions-tAOswRaL/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/play_versions-tAOswRaL/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/play_versions-tAOswRaL/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-73132802" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/play_versions-tAOswRaL/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/play_versions-tAOswRaL/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/play_versions-tAOswRaL/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-73132802" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Pipenv (Projects) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.local/share/virtualenvs/Projects-2vT6eMpr/lib/python3.7" />
@@ -188,6 +215,35 @@
         <root url="jar://$USER_HOME$/devops-tools/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
         <root url="file://$USER_HOME$/devops-tools/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/59179967" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (play_serv_vers_rep) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/play_serv_vers_rep/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/play_serv_vers_rep/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/play_serv_vers_rep/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1065095906" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+        <root url="file:///usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/play_serv_vers_rep/lib/python3.7/site-packages" />
+        <root url="jar://$USER_HOME$/play_serv_vers_rep/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/play_serv_vers_rep/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1065095906" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
