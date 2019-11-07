@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
@@ -93,6 +93,16 @@
     <option name="BASH$VAR_USE">
       <value>
         <option name="FOREGROUND" value="ff5370" />
+      </value>
+    </option>
+    <option name="BASH.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="7554de" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE_COMPOSED">
+      <value>
+        <option name="FOREGROUND" value="7554de" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
@@ -936,13 +946,11 @@
         <option name="FOREGROUND" value="ff6b68" />
       </value>
     </option>
-    <option name="LUA_FIELD" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="LUA_GLOBAL_VAR">
       <value>
         <option name="FOREGROUND" value="9fde" />
       </value>
     </option>
-    <option name="LUA_LOCAL_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
