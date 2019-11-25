@@ -95,6 +95,11 @@
         <option name="FOREGROUND" value="ff5370" />
       </value>
     </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="425ede" />
+      </value>
+    </option>
     <option name="BASH.VAR_DEF">
       <value>
         <option name="FOREGROUND" value="7554de" />
