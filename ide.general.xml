@@ -14,5 +14,6 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="terminal.buffer.max.lines.count" value="15000" />
   </component>
 </application>
