@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="user-script-template-production-1404" type="Bash" />
       <mapping pattern="user-script-template-production" type="Bash" />
       <mapping ext="tpl" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
