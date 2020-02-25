@@ -5,22 +5,18 @@
       <mapping pattern="user-script-template-production-1404" type="Bash" />
       <mapping ext="tpl" type="Bash" />
       <mapping ext="config" type="Bash" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="subdir2_file1" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="nested_subdir_file_1" type="PLAIN_TEXT" />
-      <mapping pattern="subdir_file1" type="PLAIN_TEXT" />
-      <mapping pattern="user-script-template-test" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="subdir2_file1" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="dbsync" type="PLAIN_TEXT" />
+      <mapping pattern="subdir_file1" type="PLAIN_TEXT" />
+      <mapping pattern="nested_subdir_file_1" type="PLAIN_TEXT" />
+      <mapping pattern="user-script-template-test" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="dbsync" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="write-mime-multipart" type="Python" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -28,6 +24,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="write-mime-multipart" type="Python" />
     </extensionMap>
   </component>
 </application>
