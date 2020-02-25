@@ -105,6 +105,11 @@
         <option name="FOREGROUND" value="7554de" />
       </value>
     </option>
+    <option name="BASH.VAR_USE">
+      <value>
+        <option name="FOREGROUND" value="c3d3de" />
+      </value>
+    </option>
     <option name="BASH.VAR_USE_COMPOSED">
       <value>
         <option name="FOREGROUND" value="7554de" />
