@@ -6,4 +6,7 @@
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
