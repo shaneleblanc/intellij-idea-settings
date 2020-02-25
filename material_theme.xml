@@ -3,6 +3,7 @@
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="treeFontSize" value="14" />
     <option name="settingsSelectedTab" value="3" />
