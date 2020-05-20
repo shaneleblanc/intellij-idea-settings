@@ -8,6 +8,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="user-script-template-test" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="userdata_indexetl_encoded" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="subdir2_file1" type="PLAIN_TEXT" />
       <mapping pattern="subdir_file1" type="PLAIN_TEXT" />
