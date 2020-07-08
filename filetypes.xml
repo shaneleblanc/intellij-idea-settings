@@ -15,6 +15,7 @@
       <mapping pattern="subdir_file1" type="PLAIN_TEXT" />
       <mapping pattern="nested_subdir_file_1" type="PLAIN_TEXT" />
       <mapping ext="dbsync" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
