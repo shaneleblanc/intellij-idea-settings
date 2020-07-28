@@ -1,6 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="DevkitNewActions" is_group="true" action_type="-1" position="52">
+    <group value="DevkitNewActions" is_group="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main menu" />
       <path value="File" />
@@ -9,13 +9,84 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="DevkitNewActions" is_group="true" action_type="1" position="53">
+    <group value="NewAction" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main menu" />
       <path value="File" />
       <path value="File Open Actions" />
       <path value="Open Project Actions" />
       <path value="New" />
+      <path value="Plugin DevKit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <path value="Plugin DevKit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewApplicationService" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <path value="Plugin DevKit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewProjectService" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <path value="Plugin DevKit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewModuleService" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <path value="Plugin DevKit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DevKit.NewMessageBundle" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <path value="Plugin DevKit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <path value="Plugin DevKit" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="DevKit.NewTheme" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <path value="Plugin DevKit" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>

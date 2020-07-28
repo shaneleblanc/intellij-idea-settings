@@ -4,7 +4,7 @@
     <property name="created">2018-10-02T16:21:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2020-02-26T11:06:32</property>
+    <property name="modified">2020-07-27T22:44:59</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -13,7 +13,7 @@
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="181818" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
@@ -127,6 +127,12 @@
       <value>
         <option name="FOREGROUND" value="82aaff" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="FOREGROUND" value="1b1b1b" />
+        <option name="BACKGROUND" value="d9d0f2" />
       </value>
     </option>
     <option name="BLADE_BAD_CHARACTER">
@@ -784,7 +790,11 @@
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="7a63de" />
+        <option name="BACKGROUND" value="1a1a1a" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value />
