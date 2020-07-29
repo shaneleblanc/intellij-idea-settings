@@ -17,6 +17,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="write-mime-multipart" type="Python" />
+      <mapping pattern="user-script-template-production" type="Shell Script" />
       <mapping pattern="user-script-template-stock" type="Shell Script" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
