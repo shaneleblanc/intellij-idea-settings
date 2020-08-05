@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../misc_scripts/puppet6_upgrade/ancillary_puppet6.py'" />
-    <option name="defaultScopeName" value="File '.../misc_scripts/puppet6_upgrade/ancillary_puppet6.py'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../misc_scripts/puppet6_upgrade/ancillary_puppet6.py'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
