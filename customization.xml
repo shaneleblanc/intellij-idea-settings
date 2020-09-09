@@ -1,12 +1,24 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="DevkitNewActions" is_group="true" action_type="-1" position="51">
+    <group value="DevkitNewActions" is_group="true" action_type="-1" position="48">
       <path value="root" />
       <path value="Main menu" />
       <path value="File" />
       <path value="File Open Actions" />
       <path value="Open Project Actions" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="DevkitNewActions" is_group="true" action_type="1" position="0">
