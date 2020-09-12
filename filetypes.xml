@@ -22,6 +22,8 @@
       <mapping pattern="user-script-template-stock" type="Shell Script" />
       <mapping ext="tpl" type="Shell Script" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <mapping ext="jinja" type="YAML_EX" />
+      <mapping ext="j2" type="YAML_EX" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
