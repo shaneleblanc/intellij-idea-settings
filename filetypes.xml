@@ -19,6 +19,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="write-mime-multipart" type="Python" />
+      <mapping pattern="puma-init" type="Shell Script" />
       <mapping pattern="user-script-template-production" type="Shell Script" />
       <mapping pattern="user-script-template-stock" type="Shell Script" />
       <mapping ext="tpl" type="Shell Script" />
