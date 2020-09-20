@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="env" type="Jinja2" />
       <mapping pattern="subdir2_file1" type="PLAIN_TEXT" />
       <mapping pattern="local-compress_httpd_logs_autoscale_nginx" type="PLAIN_TEXT" />
       <mapping pattern="subdir_file1" type="PLAIN_TEXT" />
