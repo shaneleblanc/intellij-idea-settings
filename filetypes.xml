@@ -24,6 +24,7 @@
       <mapping pattern="write-mime-multipart" type="Python" />
       <mapping pattern="puma-init" type="Shell Script" />
       <mapping pattern="user-script-template-production" type="Shell Script" />
+      <mapping pattern="rvm_bashrc_ubuntu18" type="Shell Script" />
       <mapping pattern="user-script-template-arm-production" type="Shell Script" />
       <mapping pattern="user-script-template-stock" type="Shell Script" />
       <mapping pattern="user-script-template-arm-stock" type="Shell Script" />
