@@ -14,6 +14,7 @@
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="rails" type="PLAIN_TEXT" />
+      <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="resque" type="PLAIN_TEXT" />
       <mapping ext="puma" type="PLAIN_TEXT" />
       <mapping ext="dbsync" type="PLAIN_TEXT" />
