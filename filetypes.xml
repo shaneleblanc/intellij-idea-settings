@@ -31,6 +31,7 @@
       <mapping pattern="user-script-template-arm-production" type="Shell Script" />
       <mapping pattern="user-script-template-stock" type="Shell Script" />
       <mapping pattern="user-script-template-arm-stock" type="Shell Script" />
+      <mapping pattern="unset_env_variables" type="Shell Script" />
       <mapping ext="tpl" type="Shell Script" />
       <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <mapping ext="jinja" type="YAML_EX" />
